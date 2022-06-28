@@ -25,7 +25,7 @@ public abstract class Instrument {
     }
 
     public static void main(String[] args) {
-       String Instrument[]=new String[10];
+       String Instrument[]=new String[15];
        Scanner sc = new Scanner(System.in);
        for (int i=0;i<=10;i++){
            System.out.println("Enter instrument name");
